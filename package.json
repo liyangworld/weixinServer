@@ -1,0 +1,25 @@
+{
+  "name": "weixinserver",
+  "version": "1.0.0",
+  "description": "微信公众号开发",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liyangworld/weixinServer.git"
+  },
+  "keywords": [
+    "weixin"
+  ],
+  "author": "liyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liyangworld/weixinServer/issues"
+  },
+  "homepage": "https://github.com/liyangworld/weixinServer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
